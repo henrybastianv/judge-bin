@@ -5,8 +5,8 @@
 **Team Name:** Judge Bin
 
 **Team Members**
-* **Team Lead:** Henry Bastian V - [Your College Name]
-* **Member 2:** Yadhuraj M - [Your College Name]
+* **Team Lead:** Henry Bastian V 
+* **Member 2:** Yadhuraj M
 
 ## Project Description
 
